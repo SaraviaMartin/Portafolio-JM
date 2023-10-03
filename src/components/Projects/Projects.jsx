@@ -7,7 +7,7 @@ import shoppingCart from "../../Assets/Projects/shoppingCart.png"
 import sofactory from "../../Assets/Projects/sofactory.png"
 import movieSearch from "../../Assets/Projects/movieSearch.png"
 import electromechanical from "../../Assets/Projects/electromechanical.png"
-import resumeOnline from "../../Assets/Projects/resumeOnline.png"
+import resumeOnline from "../../../dist/assets/resumeOnline.png"
 
 
 function Projects() {

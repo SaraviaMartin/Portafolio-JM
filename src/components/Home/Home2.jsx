@@ -2,7 +2,7 @@ import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 // import myImg from "../../Assets/avatar.svg";
 import Tilt from "react-parallax-tilt";
-import img from "../../Assets/profile_pic.png"
+import img from "../../../dist/assets/profile_pic.png"
 import {
   AiFillGithub,
   AiOutlineTwitter,
