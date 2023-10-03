@@ -2,11 +2,11 @@ import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
-import chatpdf from "../../Assets/Projects/chatpdf.png"
-import shoppingCart from "../../Assets/Projects/shoppingCart.png"
-import sofactory from "../../Assets/Projects/sofactory.png"
-import movieSearch from "../../Assets/Projects/movieSearch.png"
-import electromechanical from "../../Assets/Projects/electromechanical.png"
+import chatpdf from "../../../dist/assets/Projects/chatpdf.png"
+import shoppingCart from "../../../dist/assets/shoppingCart.png"
+import sofactory from "../../../dist/assets/sofactory.png"
+import movieSearch from "../../../dist/assets/movieSearch.png"
+import electromechanical from "../../../dist/assets/Projects/electromechanical.png"
 import resumeOnline from "../../../dist/assets/resumeOnline.png"
 
 
