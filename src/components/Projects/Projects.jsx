@@ -2,12 +2,12 @@ import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
-import chatpdf from "../../Assets/Projects/chatpdf.png"
-import shoppingCart from "../../Assets/Projects/shoppingCart.png"
-import sofactory from "../../Assets/Projects/sofactory.png"
-import movieSearch from "../../Assets/Projects/movieSearch.png"
-import electromechanical from "../../Assets/Projects/electromechanical.png"
-import resumeOnline from "../../Assets/Projects/resumeOnline.png"
+import chatpdf from "../../assets/Projects/chatpdf.png"
+import shoppingCart from "../../assets/Projects/shoppingCart.png"
+import sofactory from "../../assets/Projects/sofactory.png"
+import movieSearch from "../../assets/Projects/movieSearch.png"
+import electromechanical from "../../assets/Projects/electromechanical.png"
+import resumeOnline from "../../assets/Projects/resumeOnline.png"
 
 
 function Projects() {
